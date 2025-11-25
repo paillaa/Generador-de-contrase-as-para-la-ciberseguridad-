@@ -38,6 +38,3 @@ Posibles Mejoras Futuras
 Argumentos de Línea de Comandos: Implementar el módulo argparse para permitir al usuario especificar la longitud y el conjunto de caracteres sin interacción por input().
 
 Evaluación de Fuerza (Entropy Score): Integrar una librería como Zxcvbn para proporcionar una métrica de la fuerza de la contraseña generada.
-
-
-🧑‍💻 Autor
