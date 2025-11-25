@@ -21,18 +21,6 @@ string: Proporciona conjuntos de caracteres estandarizados (letras, dígitos, pu
 
 random: Se utiliza de forma segura únicamente para la función de barajado (random.shuffle), asegurando que la posición de los caracteres garantizados sea aleatoria.
 
-🚀 Uso y Ejecución
-Para ejecutar el generador, sigue estos pasos en tu terminal:
-
-Clona el repositorio:
-git clone https://github.com/TuUsuario/TuRepositorio.git
-cd TuRepositorio # Entra al directorio
-
-Ejecuta el script:
-python generador_contraseñas.py
-
-Sigue las instrucciones: El programa te pedirá la longitud deseada de la contraseña (mínimo 20) y la generará al instante.
-
 
 Posibles Mejoras Futuras
 Argumentos de Línea de Comandos: Implementar el módulo argparse para permitir al usuario especificar la longitud y el conjunto de caracteres sin interacción por input().
